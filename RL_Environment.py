@@ -1,3 +1,5 @@
+#This is the main executable file
+
 import pygame
 import numpy as np
 from snake_game import Game
